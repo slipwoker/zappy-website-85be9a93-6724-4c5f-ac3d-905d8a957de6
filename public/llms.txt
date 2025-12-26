@@ -1,0 +1,57 @@
+# One-priority — Generative Engine Optimization Map
+
+> A טכנולוגיה ומערכות מידע business.
+
+---
+
+## Pages
+
+### דף הבית
+https://one-priority-85be9a93.zappy5.app
+גלו את חברת יישום פריוריטי בישראל המובילה עם פתרונות ERP מתקדמים. התייעצו איתנו עוד היום לשדרוג מערכת פריוריטי לארגונים גדולים.
+
+### שירותים
+https://one-priority-85be9a93.zappy5.app/services
+גלו את מגוון שירותי יישום מערכת פריוריטי לעסקים שלנו: יישום, שדרוג, ייעוץ והטמעת Priority ERP מקצועי לארגונים גדולים בישראל.
+
+### אודות
+https://one-priority-85be9a93.zappy5.app/about
+הכירו את One-priority - חברת יישום פריוריטי בישראל המובילה עם ניסיון עשיר ביישום מערכת פריוריטי לעסקים ושדרוג פריוריטי לארגונים גדולים.
+
+### צור קשר
+https://one-priority-85be9a93.zappy5.app/contact
+צרו קשר עם One-priority לייעוץ מקצועי ביישום מערכת פריוריטי לעסקים ושדרוג פריוריטי לארגונים גדולים. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://one-priority-85be9a93.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://one-priority-85be9a93.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://one-priority-85be9a93.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About One-priority
+One-priority is a business in the טכנולוגיה ומערכות מידע industry.
+
+## Target Audience
+חברות בינוניות וארגונים גדולים
+
+## Industry
+טכנולוגיה ומערכות מידע
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://one-priority-85be9a93.zappy5.app/sitemap.xml
+- **Robots.txt**: https://one-priority-85be9a93.zappy5.app/robots.txt

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://one-priority-85be9a93.zappy5.app/sitemap.xml
